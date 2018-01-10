@@ -57,7 +57,7 @@ namespace Sample_3
                 Article a = new Article()
                 {
                     PicUrl = "http://wjh.apphb.com/img/a1.jpg",
-                    Description = "点击链接访问ViewNav页面",
+                    Description = "点击进入ViewNav",
                     Url = "http://wjh.apphb.com/ViewNav.aspx",
                     Title = "访问记录"
                 };
@@ -69,7 +69,7 @@ namespace Sample_3
                 Article a= new Article()
                     {
                         PicUrl = "http://wjh.apphb.com/img/a2.jpg",
-                        Description = "点击链接访问ViewShare页面",
+                        Description = "点击进入ViewShare",
                         Url = "http://wjh.apphb.com/ViewShare.aspx",
                         Title = "分享记录"
                     };
@@ -81,7 +81,7 @@ namespace Sample_3
                 Article a = new Article()
                 {
                     PicUrl = "http://wjh.apphb.com/img/a3.jpg",
-                    Description = "点击链接访问NavshareIndex页面",
+                    Description = "点击进入NavshareIndex",
                     Url = "http://wjh.apphb.com/NavShareIndex.aspx?s=system",
                     Title = "新页面"
                 };
